@@ -139,5 +139,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0610-triangle-judgement](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/0610-triangle-judgement) |
 | [0626-exchange-seats](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/0626-exchange-seats) |
 <!---LeetCode Topics End-->
