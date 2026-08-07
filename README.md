@@ -136,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/0014-longest-common-prefix) |
+## Database
+|  |
+| ------- |
+| [0626-exchange-seats](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/0626-exchange-seats) |
 <!---LeetCode Topics End-->
