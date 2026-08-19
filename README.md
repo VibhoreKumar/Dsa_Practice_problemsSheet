@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/0989-add-to-array-form-of-integer) |
 | [1140-stone-game-ii](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/1140-stone-game-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1386-cinema-seat-allocation](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/1406-stone-game-iii) |
 | [2029-stone-game-ix](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/0819-most-common-word) |
 | [0888-fair-candy-swap](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/0888-fair-candy-swap) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1386-cinema-seat-allocation](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/0190-reverse-bits) |
 | [0476-number-complement](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/0693-binary-number-with-alternating-bits) |
+| [1386-cinema-seat-allocation](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sorting
 |  |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/3348-smallest-divisible-digit-product-ii) |
