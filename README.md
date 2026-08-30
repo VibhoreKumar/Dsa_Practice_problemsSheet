@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/1406-stone-game-iii) |
 | [1872-stone-game-viii](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/1386-cinema-seat-allocation) |
 | [1903-largest-odd-number-in-string](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/1903-largest-odd-number-in-string) |
 | [2029-stone-game-ix](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
