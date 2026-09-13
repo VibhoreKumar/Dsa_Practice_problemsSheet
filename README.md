@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/0027-remove-element) |
 | [0128-longest-consecutive-sequence](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0228-summary-ranges](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/0228-summary-ranges) |
+| [0274-h-index](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/0274-h-index) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0888-fair-candy-swap](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/0905-sort-array-by-parity) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/0274-h-index) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Depth-First Search
 |  |
