@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/0345-reverse-vowels-of-a-string) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/0128-longest-consecutive-sequence) |
+| [0189-rotate-array](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/0274-h-index) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/0171-excel-sheet-column-number) |
+| [0189-rotate-array](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/0367-valid-perfect-square) |
 | [0486-predict-the-winner](https://github.com/VibhoreKumar/https-github.com-VibhoreKumar-Dsa_Practice_problems/tree/master/0486-predict-the-winner) |
